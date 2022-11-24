@@ -45,3 +45,6 @@ TOOLS
 ·forkatz: https://lnkd.in/de-jtbjY
 ·Pypykatz: https://lnkd.in/dkKequy6
 ·nanodump: https://lnkd.in/dCHhtH3x
+
+ #Python
+request: https://httpbin.org/
